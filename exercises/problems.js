@@ -4,6 +4,7 @@ See how many different ways you can write this function! There are a TON.
 */
 
 function toString(b){
+
 }
 -----------------------------------------------------------
 
